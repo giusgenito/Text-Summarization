@@ -12,6 +12,9 @@ Il set di dati utilizzato è costituito da una raccolta di articoli ottenuti tra
 
 Il modello preaddestrato mBART è stato scelto per la sua notevole efficacia nella generazione di testi e, in particolare, nella Text Summarization. La sua architettura avanzata contribuisce a ottenere risultati di alto livello nelle attività di riassunto testuale.
 
+<img width="1710" height="370" alt="Screenshot 2025-11-26 152212" src="https://github.com/user-attachments/assets/0fafaa7c-d5ca-4e3e-ab48-b2d0ffab7cbe" />
+
+
 **Metriche di Valutazione**
 
 Le prestazioni dell'algoritmo sono valutate mediante l'utilizzo di metriche standard nel campo della Text Summarization, inclusi ROUGE e BLEU. Queste metriche forniscono una valutazione quantitativa della qualità del riassunto generato rispetto al testo di riferimento, consentendo una comprensione approfondita delle capacità dell'algoritmo.
